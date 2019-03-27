@@ -2,6 +2,7 @@
 
 Based on [this project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)
 
+Click [here](https://github.com/mcrd25/ror-toy-app) for live version of project
 
 
 ## Contributors
